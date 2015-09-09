@@ -10,13 +10,13 @@
 
 	//Required
 	"browser_action": {
-		"default_icon": "images/favicon.png",
+		//"default_icon": "images/favicon.png",
  		"default_popup": "popup.html"
  	},
 
- 	"icons": {
-      "256": "images/favicon.png"
-  	},
+ 	//"icons": {
+      //"256": "images/favicon.png"
+  	//},
 
  	//Optional
  	"author":"G 2015",
